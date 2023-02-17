@@ -270,13 +270,20 @@ color: #a7b2e3e3;
 .images-item{
     width: 100%;
 }
-
+.item11{
+    width: 100%;
+}
+.item12{
+    width: 100%;
+}
 .images-item{
     margin-top: 24%;
     margin-bottom: 24px;
     position: relative;
 }
-
+.images-item p{
+    width: 100%;
+}
 .images-item::before{
     content: '';
     position: absolute;
